@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_result" type="id" />
+    <item name="button_start" type="id" />
+    <item name="fab_start_recording" type="id" />
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Ai voice assistant</string>
+    <string name="result_get_0">+result.get(0)</string>
+    <string name="start_listening">Start Listening</string>
+    <string name="startlistening">StartListening</string>
+    <string name="start">Start</string>
+    <string name="hii">hii</string>
+</resources>
